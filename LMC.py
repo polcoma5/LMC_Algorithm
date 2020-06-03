@@ -16,8 +16,6 @@ import pyhdust.images as phim
 from threading import Thread, Lock
 import logging
 
-
-
 #Global vars
 
 mutex = Lock()
